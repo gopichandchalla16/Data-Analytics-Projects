@@ -61,7 +61,34 @@ Datasets for Mutual Fund data
 Outcome:
 Enabled users to evaluate mutual fund performance, balance risk, and maximize potential returns through data-driven insights.
 
+-------------------------------------------------------------------------------------------------------------------
 
+3. ChatGPT Reviews Analysis
+This project involves analyzing customer reviews of ChatGPT to understand user sentiment, identify key themes, and derive actionable insights for improving the service.
+
+Features:
+
+Data Collection:
+Gathered reviews from online sources, including feedback forums, app reviews, and surveys.
+
+Data Cleaning:
+Standardized text data by removing noise such as special characters, stopwords, and irrelevant entries.
+
+Sentiment Analysis:
+Utilized NLTK and TextBlob for sentiment classification (positive, negative, neutral).
+Extracted key phrases and recurring themes using Natural Language Processing (NLP).
+
+Visualization:
+Bar charts for sentiment distribution.
+Word clouds for frequently mentioned keywords.
+Heatmaps to show correlations between review metrics.
+
+Tech Stack:
+Python (pandas, NumPy, NLTK, TextBlob, Matplotlib, Seaborn)
+NLP Techniques
+
+Outcome:
+Revealed areas of improvement for ChatGPT by analyzing user sentiment and identifying frequently requested features.
 
 🎯 Key Learnings
 
